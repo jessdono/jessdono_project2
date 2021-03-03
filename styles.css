@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h1{
+text-align: center
+}
+
+body{
+	background-color: pink
+}
+
+/* The gingerbread man needs to be in the middle of the screen */
+img {
+	display: block;
+	margin-top: 30%;
+	margin-left: auto;
+	margin-right: auto;
+	}
